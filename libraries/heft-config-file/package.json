@@ -24,12 +24,12 @@
     "@rushstack/node-core-library": "workspace:*",
     "@rushstack/rig-package": "workspace:*",
     "@rushstack/terminal": "workspace:*",
-    "jsonpath-plus": "~4.0.0"
+    "jsonpath-plus": "~10.3.0"
   },
   "devDependencies": {
     "local-eslint-config": "workspace:*",
-    "@rushstack/heft": "0.66.17",
-    "@rushstack/heft-node-rig": "2.6.15",
+    "@rushstack/heft": "0.68.17",
+    "@rushstack/heft-node-rig": "2.6.54",
     "@types/heft-jest": "1.0.1",
     "@types/node": "18.17.15"
   }
