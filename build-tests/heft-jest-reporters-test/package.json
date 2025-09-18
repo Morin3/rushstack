@@ -10,7 +10,7 @@
     "_phase:test": "heft run --only test -- --clean"
   },
   "devDependencies": {
-    "@jest/reporters": "~29.5.0",
+    "@jest/reporters": "~30.0.0",
     "@jest/types": "29.5.0",
     "@types/node": "18.17.15",
     "local-eslint-config": "workspace:*",
