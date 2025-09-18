@@ -29,13 +29,13 @@
     }
   },
   "dependencies": {
-    "@jest/core": "~29.5.0",
-    "@jest/reporters": "~29.5.0",
+    "@jest/core": "~30.0.0",
+    "@jest/reporters": "~30.0.0",
     "@jest/transform": "~29.5.0",
     "@rushstack/heft-config-file": "workspace:*",
     "@rushstack/node-core-library": "workspace:*",
     "@rushstack/terminal": "workspace:*",
-    "jest-config": "~29.5.0",
+    "jest-config": "~30.0.0",
     "jest-resolve": "~29.5.0",
     "jest-snapshot": "~29.5.0",
     "lodash": "~4.17.15"
